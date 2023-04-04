@@ -2,6 +2,7 @@
 	<ul>
 		<li><a href="/">Home</a></li>
 		<li><a href="/news">News</a></li>
+		<li><a href="/admin">Admin</a></li>
 	</ul>
 </nav>
 
